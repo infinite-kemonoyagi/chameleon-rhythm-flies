@@ -1,8 +1,18 @@
-# Chameleon, Flies and Rhytmn
+# [Chameleon, Flies and Rhytmn](https://infinite-kemonoyagi.github.io/games/jams/ludum-dare-jam-56) <!-- Reserved link --> | By `Infinite Kemonoyagi`
 
-This game, made for the Ludum dare Jam #56, is like pyoro minigames but playing as a chameleon.
+## Banner
 
-Eat all the flies you can
+![banner](/BANNER.png)
+
+---
+
+## Description
+
+This game is originally created for the `Ludum dare Jam` `56`.
+
+Inspired on Pyoro minigames of `Wario Ware` series but you now play as a chameleon.
+
+Eat all the flies you can... BUT BE CAREFULL they will appear faster and maybe the screen could get oversaturate of them
 
 ## Credits
 
@@ -10,10 +20,18 @@ Eat all the flies you can
 - [EliAnima](https://x.com/EliAnima_): Composer of [Camaleon](/assets/music/Camaleon.mp3) (main theme).
 - [FishDev](https://x.com/FishDevNew): Composer of [Menu](/assets/music/Camaleon.mp3) (menu and game-over theme), Sprite animator.
 
-## Public Beta
+## Links and additional (but important) information
 
-Play the beta of the game on newgrounds <https://www.newgrounds.com/portal/view/950974>.
+### Links
 
-maybe i will update this game adding new content, but for the moment i will only fix some stuff ;3
+- [Website](https://infinite-kemonoyagi.github.io/games/jams/ludum-dare-jam-56) <!-- Reserved link -->
+- [Newgrounds](https://www.newgrounds.com/portal/view/950974)
 
-anyways, at the moment i don't publish more games :c, but if you want to play more games go to my new Newgrounds account ([Infinite-Kemonoyagi](https://infinite-kemonoyagi.newgrounds.com/))
+### Additional information
+
+This game will no longer receive more updates.
+Maybe in a future will create a sequel with more content but until then i will focus on creating new and original games.
+
+If you want to play more games check out to my Newgrounds account ([@Infinite-Kemonoyagi](https://infinite-kemonoyagi.newgrounds.com/))
+
+or in my website [link here](https://infinite-kemonoyagi.github.io/games/) <!-- Reserved link -->
